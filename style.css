@@ -1,0 +1,55 @@
+.sign_up_full_div {
+  width: 50%;
+  height: auto;
+  margin: 100px auto;
+  text-align: start;
+}
+.sign p:first-child {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.sign p {
+  font-size: 20px;
+  margin-top: 5px;
+}
+.name input:first-child {
+  margin-right: 10px;
+}
+.name {
+  margin-bottom: 10px;
+}
+.name input {
+  padding: 10px;
+}
+.mobile_Num_or_Address input {
+  padding: 10px;
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+.pass input {
+  padding: 10px;
+  width: 60%;
+}
+
+.date p {
+  margin-bottom: 5px;
+}
+
+.genders p {
+  margin-bottom: 5px;
+}
+
+.genders input[type="radio"] {
+  margin-right: 20px;
+}
+
+.sign_up_button input[type="button"] {
+  padding: 12px;
+  background: #00a400;
+  border-color: #00a400;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
